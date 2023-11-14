@@ -1,4 +1,4 @@
-const animals = [
+const Programmers = [
     { name: 'Cow', type: 'Mammal' },
     { name: 'Eagle', type: 'Bird' },
     { name: 'Snake', type: 'Reptile' },
